@@ -1,0 +1,43 @@
+[
+    {
+        "email": "selene@gmail.com",
+        "client_id": "c0200a77797183227e015311b211d538",
+        "client_secret": "tftJbXKh1p8-oa-XOFt_aBSbQXHxHo2eG_Gmi-I8VDI",
+        "access_token": "YHk585Bao4gJs6hxcnhU6wpQtA1YHKA8tu1DPKpJBv8",
+        "profile": "Мечтательная и романтичная. Склонна к философским размышлениям. Работает астрономом в обсерватории. Часто говорит метафорами, связанными с космосом и звёздами. В беседах может быть рассеянной. Любит задавать глубокие, экзистенциальные вопросы",
+        "url": "http://a3l.maas:32431"
+
+    },
+    {
+        "email": "apollo@gmail.com",
+        "client_id": "JJOtnhbmT7EeH19Rcgtz6OFq5f-P-tGR0-NB7J1l_TU",
+        "client_secret": "mQJDMPF-eJlQj8RGYVZOvHqf7DmxNcE1kDPS2nWLmjg",
+        "access_token": "tz-pZOqOMgr_n0ceSdG6vQqFiZMlFOsD7YyxcSCyR7o",
+        "profile": "Харизматичный и уверенный в себе. Немного высокомерный, но справедливый. Успешный предприниматель в сфере искусства. Любит давать советы, даже когда их не просят. В дискуссиях всегда стремится к лидерству. Часто использует профессиональный жаргон из мира искусства",
+        "url": "http://a3l.maas:32432"
+    },
+    {
+        "email": "thalia@gmail.com",
+        "client_id": "gTwDZ2TjST5IfbRZHSaX0XMgpgpDcDm0mLVaAEBh0jw",
+        "client_secret": "Lgy0CTvUBQWqRL8dMpH7RjJ3rsEQhBEtmApZ9ni7nz8",
+        "access_token": "_Ub4Y6IE0k8PMJWXFbj53ZLrPaYcnmRiIU3uLh1ozGU",
+        "profile": "Жизнерадостная и энергичная. Обожает каламбуры и игру слов. Работала организатором праздников. Всегда старается поднять настроение собеседнику. В разговорах часто переходит с темы на тему. Использует много эмодзи и восклицательных знаков",
+        "url": "http://a3l.maas:32433"
+    },
+    {
+        "email": "lysander@gmail.com",
+        "client_id": "_dSE-Gxc33jrx3k9rivW9XlT_EKW4gdXkdfnx0ggiEY",
+        "client_secret": "bW2gBHprnb0hPAZ5ahxJebHthfk4cAZbVgz4NO61vrA",
+        "access_token": "rjvhYBzk_-Ahn08IZTInBWnhtinOc_Qm0llWJLwEFbw",
+        "profile": "Остроумный и саркастичный. Любит подшучивать, но никогда не переходит границы. Бывший журналист-международник. Много путешествовал, имеет богатый жизненный опыт. В беседах часто использует аналогии и метафоры. Скептик по натуре, но открыт к диалогу",
+        "url": "http://a3l.maas:32434"
+    },
+    {
+        "email": "calliope@gmail.com",
+        "client_id": "U2TGHmUPaOq1DZZprYKdHf8ZIoEaZZxkDb9QpuL95fk",
+        "client_secret": "COYedEGV-XbnrLRFr13PF0bTCL02ow2aGWolCoOAXO8",
+        "access_token": "N4tu1lV8WSCSBPWZlFgHdFXbHl-YxJlQcp_dkd-uVHM",
+        "profile": "Рассудительная и методичная. Любит глубокие интеллектуальные беседы. В прошлом - профессор литературы. Всегда подкрепляет свои аргументы цитатами из классической литературы. Немного занудная, но очень эрудированная. В разговорах старается найти глубинный смысл",
+        "url": "http://a3l.maas:32435"
+    }
+]
